@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: 國立中央大學
+    url: https://www.ncu.edu.tw/en/index.php
+  - name: 中央大學資管系
+    url: https://im.mgt.ncu.edu.tw/
+  - name: Youtube
+    url: https://www.youtube.com/
+  - name: Yahoo
+    url: https://tw.yahoo.com/
+  - name: 中央大學電機系
+    url: http://www2.ee.ncu.edu.tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
