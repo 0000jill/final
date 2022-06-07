@@ -21,7 +21,7 @@ sites:
     url: https://tw.yahoo.com/
   - name: 中央大學電機系
     url: http://www2.ee.ncu.edu.tw/
-  -name: 無效網址
+  - name: 無效網址
     url: https://rivhdbeejrljlivuwoiefuw139798
     
 status-website:
